@@ -1,7 +1,0 @@
-{
-  "name": "tradera-proxy",
-  "version": "1.0.0",
-  "dependencies": {
-    "soap": "^0.44.0"
-  }
-}
