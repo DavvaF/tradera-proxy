@@ -1,5 +1,0 @@
-tradera-proxy/
-├── api/
-│   └── tradera.js
-├── package.json
-└── vercel.json (valfritt)
